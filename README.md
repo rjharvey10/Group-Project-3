@@ -20,7 +20,7 @@ The goal of this project was to determine what musical artists had the most inst
 4. Using JavaScript, use d3 functions to sort through the data so it can be used reactively by the HTML (such as the graphs and dropdown functions, so they do not have to be hard-coded)
 5. Finally, using HTML, ensure the data is presented correctly using Plotly and Bootstrap so it looks presentable
 - Finalized Product:
-![Image 1](Screenshot_1.png)
+!(Screenshot_1.png)
 (screenshot 1 goes here)
 
 ### Findings
